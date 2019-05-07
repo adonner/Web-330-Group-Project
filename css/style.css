@@ -1,8 +1,13 @@
 body{
-  background-color: #b2cede;
-  color:#009fb7;
+  background-color: #2d3142;
+  color:#ffff;
 }
 #btnNext{
-  background:#009fb7;
-  color:white;
+  background:#4f5d75;
+  color: #ef8354;
+}
+.jumbotron
+{
+  background-color: #bfc0c0;
+  color: #222;
 }
